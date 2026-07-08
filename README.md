@@ -9,7 +9,7 @@ Criar um prompt claro e aplicável para orientar uma IA a ajudar pessoas com rot
 
 ## 💡 Passo 1: Intenção:
 
-**Quero que gere um plano de produtividade pessoal para pessoas que trabalham, estudam e têm pouco tempo disponível.**
+Quero que gere um plano de produtividade pessoal para pessoas que trabalham, estudam e têm pouco tempo disponível.
 
 ## 🧩 Passo 2: Contexto e restrições:
 
@@ -18,11 +18,9 @@ O conteúdo deve ter formato de checklist com 5 a 7 itens, indicando prioridade,
 A IA deve fazer apenas uma pergunta por vez e aguardar a resposta antes de continuar.  
 Evite linguagem técnica, listas longas, metas irreais e tom de cobrança.
 
-
-## 🤖 Passo 3:
-
-> **[!Prompt final]**
+>## 🤖 Passo 3:
 > Entrega final que reune intenção, contexto, formato e restrições.
+> **[!Prompt final]**
 
 ```text
 Quero que gere um plano de produtividade pessoal para pessoas que trabalham, estudam e têm pouco tempo disponível, com o objetivo de aumentar o foco, reduzir a sobrecarga e criar um plano realista de ação.
@@ -44,10 +42,8 @@ Evite termos técnicos, excesso de informações, listas muito longas, metas irr
 
 ## 🔧 Testando o prompt:
 
-Ao testar o prompt, a IA seguiu a instrução de fazer **uma pergunta por vez**.
-
+Ao testar o prompt, a IA seguiu a instrução de fazer uma pergunta por vez.
 As perguntas buscaram entender:
-
 1. tarefas e compromissos dos próximos dias;  
 2. compromissos fixos da semana, trabalho, estudos e deslocamentos;  
 3. nível de energia ao longo da semana;  
@@ -56,24 +52,18 @@ As perguntas buscaram entender:
 
 ### 📋 Contexto usado no teste:
 
-```text
 1. Tarefas: Estudar para melhorar minha recolocação na área de tecnologia.
 Revisar currículo ou LinkedIn, responder mensagens importantes, cuidar de algumas tarefas domésticas básicas, tentar manter algum exercício físico na semana
-
 2. Compromissos: Trabalho de segunda a sexta, das 8h às 18h. 
 Estudos à noite de segunda a quinta. 
 Transporte público: em média 1h a 1h30 por trajeto. 
 Chego em casa por volta das 23h30 nos dias de aula.
-
 3. A rotina é bem apertada e nem sempre consigo fazer tudo.
 No fim de semana cuido da casa e procuro estudar.
-
 4. Prioridades: Manter os estudos. Não deixar tarefas importantes acumularem. 
 Incluir exercícios de forma realista, sem sobrecarga
-
 5. Tempo disponível: Durante a semana é limitado e cansativo. 
 Talvez consiga algum tempo aos sábados e domingos, quando não há compromissos extras
-```
 
 ---
 
