@@ -14,7 +14,6 @@ O conteúdo deve ter formato de checklist com 5 a 7 itens, indicando prioridade,
 A IA deve fazer apenas uma pergunta por vez e aguardar a resposta antes de continuar.  
 Evite linguagem técnica, listas longas, metas irreais e tom de cobrança.
 
-_
 
 >## 🤖 Passo 3:
 Entrega final que reune intenção, contexto, formato e restrições.
@@ -35,7 +34,8 @@ Ao final, apresente uma breve avaliação com um ponto forte da organização, u
 Use linguagem simples, clara, acolhedora e motivadora.
 Evite termos técnicos, excesso de informações, listas muito longas, metas irreais, tom de cobrança e recomendações difíceis de aplicar.
 ```
--
+
+
 
 ## 🔧 Testando o prompt:
 Ao testar o prompt, a IA fez uma pergunta por vez para entender tarefas, compromissos, energia, urgências e tempo disponível. O contexto considerado foi:
@@ -95,7 +95,7 @@ Lembre-se de que manter uma rotina pequena e constante costuma trazer mais resul
 
 **Sugestão prática:** trate o fim de semana como seu principal período para tarefas que exigem concentração (como estudar e revisar currículo) e use os dias úteis apenas para pequenas ações de manutenção, como responder mensagens, revisar um conteúdo por alguns minutos ou fazer um exercício curto. Dessa forma, a rotina tende a ser mais sustentável e aumenta a chance de você manter o ritmo ao longo das semanas.
 
----
+
 
 
 > ## 🚀 Conclusão:
