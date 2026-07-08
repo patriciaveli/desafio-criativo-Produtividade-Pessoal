@@ -4,60 +4,29 @@
 
 ---
 
-## ✨ Tema
-
-**Produtividade pessoal, foco e organização com apoio de IA.**
+**✨Produtividade pessoal, foco e organização com apoio de IA.**
 
 ---
 
-## 📌 Objetivo da entrega
-
-Criar um **prompt claro, útil e aplicável** para orientar uma IA a ajudar pessoas com rotina intensa a organizar prioridades, reduzir sobrecarga e transformar tarefas acumuladas em ações simples e realistas.
-
-> [!NOTE]
-> A proposta segue o modelo do desafio: definir a intenção, adicionar contexto e restrições, e unir tudo em um **prompt final**.
+## 📌 Objetivo
+Criar um prompt claro e aplicável para orientar uma IA a ajudar pessoas com rotina intensa a organizar prioridades, reduzir sobrecarga e transformar tarefas acumuladas em ações simples e realistas.
 
 ---
 
-## 🧱 Passo 1: Definição da intenção
-
-### ✍️ Prompt construído nesta etapa
+## ✍️ Passo 1: Intenção:
 
 ```text
-Quero que a IA gere um plano de produtividade pessoal para pessoas que trabalham, estudam e têm pouco tempo disponível, com o objetivo de aumentar o foco, reduzir a sobrecarga e criar um plano realista de ação.
+Quero que gere um plano de produtividade pessoal para pessoas que trabalham, estudam e têm pouco tempo disponível.
 ```
-
-### ✅ Resposta ao passo 1
-
-- **Tipo de conteúdo:** plano de produtividade pessoal.  
-- **Público:** pessoas que trabalham, estudam e têm pouco tempo disponível.  
-- **Resultado esperado:** mais foco, menos sobrecarga e um plano realista de ação.  
-
 ---
 
-## 🧩 Passo 2: Contexto e restrições
-
-### ✍️ Contexto definido
-
+## 🧩 Passo 2: Contexto e restrições:
 ```text
-Considere o seguinte contexto: a pessoa pode ter trabalho, estudos, tarefas domésticas, deslocamento, cansaço, compromissos fixos e dificuldade para manter constância. Muitas vezes, ela não conseguirá fazer tudo no mesmo dia.
-
-O conteúdo deve ajudar a pessoa a escolher o que fazer primeiro, o que pode esperar, o que pode ser simplificado e qual pequena ação pode iniciar imediatamente.
-
-A IA deve fazer apenas uma pergunta por vez e aguardar a resposta antes de continuar.
-
-A resposta final deve ter formato de checklist com no máximo 5 a 7 itens, organizado por prioridade, tempo estimado, nível de energia e primeira ação.
-
-Evite linguagem técnica, excesso de etapas, listas longas, metas irreais, cobranças exageradas e recomendações difíceis de aplicar.
+Considere o seguinte contexto: a pessoa pode ter trabalho, estudos, tarefas domésticas, deslocamento, cansaço e compromissos fixos. Muitas vezes, ela não conseguirá fazer tudo no mesmo dia.  
+O conteúdo deve ter formato de checklist com 5 a 7 itens, indicando prioridade, tempo estimado, energia necessária e primeira ação simples.  
+A IA deve fazer apenas uma pergunta por vez e aguardar a resposta antes de continuar.  
+Evite linguagem técnica, listas longas, metas irreais e tom de cobrança.
 ```
-
-### ✅ Resposta ao passo 2
-
-- **Estilo desejado:** simples, claro, acolhedor, motivador e realista.  
-- **Formato:** checklist com 5 a 7 itens, prioridade, tempo estimado, energia necessária e primeira ação.  
-- **Interação:** uma pergunta por vez, aguardando a resposta antes de continuar.  
-- **O que evitar:** linguagem técnica, excesso de tarefas, tom de cobrança e planos impossíveis de manter.  
-
 ---
 
 ## 🚀 Passo 3: Prompt final
@@ -79,7 +48,6 @@ Se houver tarefas demais para o tempo disponível, ajude a pessoa a escolher o q
 Ao final, apresente uma breve avaliação com um ponto forte da organização, um risco de sobrecarga e uma sugestão prática para manter a rotina mais sustentável.
 Use linguagem simples, clara, acolhedora e motivadora.
 Evite termos técnicos, excesso de informações, listas muito longas, metas irreais, tom de cobrança e recomendações difíceis de aplicar.
-
 ```
 
 ---
