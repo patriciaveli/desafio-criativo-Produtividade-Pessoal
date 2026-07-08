@@ -30,8 +30,7 @@ Evite linguagem técnica, listas longas, metas irreais e tom de cobrança.
 ## 🤖 Passo 3:
 
 > **[!Prompt final]**
-> 
-> Este é o **prompt final** da entrega, reunindo intenção, contexto, formato e restrições.
+> Entrega final que reune intenção, contexto, formato e restrições.
 
 ```text
 Quero que gere um plano de produtividade pessoal para pessoas que trabalham, estudam e têm pouco tempo disponível, com o objetivo de aumentar o foco, reduzir a sobrecarga e criar um plano realista de ação.
@@ -145,7 +144,7 @@ Lembre-se de que manter uma rotina pequena e constante costuma trazer mais resul
 
 
 
-## 🚀 Conclusão:
+> ## 🚀 Conclusão:
 
 Este prompt é útil porque não trata produtividade como uma lista infinita de obrigações. Ele orienta a IA a entender o momento da pessoa, considerar tempo e energia disponíveis, e transformar a rotina em pequenas ações possíveis. Assim, a IA deixa de ser apenas uma ferramenta de resposta e passa a funcionar como uma parceira de organização, ajudando a pessoa a começar com mais clareza, foco e leveza.
 
