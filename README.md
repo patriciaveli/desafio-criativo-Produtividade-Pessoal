@@ -2,8 +2,6 @@
 
 ## Acelerando Sua Produtividade Pessoal com IA
 
----
-
 **✨Produtividade pessoal, foco e organização com apoio de IA.**
 
 ---
@@ -31,7 +29,8 @@ Evite linguagem técnica, listas longas, metas irreais e tom de cobrança.
 
 ## 🤖 Passo 3:
 
-> [!Prompt final]
+> **[!Prompt final]**
+> 
 > Este é o **prompt final** da entrega, reunindo intenção, contexto, formato e restrições.
 
 ```text
