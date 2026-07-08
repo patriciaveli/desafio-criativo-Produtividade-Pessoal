@@ -145,8 +145,6 @@ Lembre-se de que manter uma rotina pequena e constante costuma trazer mais resul
 
 
 > ## 🚀 Conclusão:
+>Este prompt não trata produtividade como uma lista infinita de obrigações, ele orienta a >IA a entender o momento da pessoa, considerar tempo e energia disponíveis, e transformar >a rotina em pequenas ações possíveis. Assim, a IA deixa de ser apenas uma ferramenta de >resposta e passa a funcionar como uma parceira de organização, ajudando a pessoa a >começar com mais clareza, foco e leveza.
 
-Este prompt é útil porque não trata produtividade como uma lista infinita de obrigações. Ele orienta a IA a entender o momento da pessoa, considerar tempo e energia disponíveis, e transformar a rotina em pequenas ações possíveis. Assim, a IA deixa de ser apenas uma ferramenta de resposta e passa a funcionar como uma parceira de organização, ajudando a pessoa a começar com mais clareza, foco e leveza.
-
----
 
