@@ -6,7 +6,7 @@
 Criar um prompt claro e aplicável para orientar uma IA a ajudar pessoas com rotina intensa a organizar prioridades, reduzir sobrecarga e transformar tarefas acumuladas em ações simples e realistas.
 
 ## 💡 Passo 1: Intenção:
-Quero que gere um plano de produtividade pessoal para pessoas que trabalham, estudam e têm pouco tempo disponível.
+QCriar um plano de produtividade pessoal para pessoas que trabalham, estudam e têm pouco tempo disponível.
 
 ## 🧩 Passo 2: Contexto e restrições:
 Considere o seguinte contexto: a pessoa pode ter trabalho, estudos, tarefas domésticas, deslocamento, cansaço e compromissos fixos. Muitas vezes, ela não conseguirá fazer tudo no mesmo dia.  
