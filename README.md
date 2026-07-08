@@ -13,7 +13,7 @@ Criar um prompt claro e aplicável para orientar uma IA a ajudar pessoas com rot
 
 ---
 
-## ✍️ Passo 1: Intenção:
+## 💡 Passo 1: Intenção:
 
 ```text
 Quero que gere um plano de produtividade pessoal para pessoas que trabalham, estudam e têm pouco tempo disponível.
@@ -29,9 +29,9 @@ Evite linguagem técnica, listas longas, metas irreais e tom de cobrança.
 ```
 ---
 
-## 🚀 Passo 3: Prompt final
+## 🤖 Passo 3:
 
-> [!IMPORTANT]
+> [!Prompt final]
 > Este é o **prompt final** da entrega, reunindo intenção, contexto, formato e restrições.
 
 ```text
@@ -52,7 +52,7 @@ Evite termos técnicos, excesso de informações, listas muito longas, metas irr
 
 ---
 
-## 🤖 Teste do prompt
+## 🔧 Testando o prompt:
 
 Ao testar o prompt, a IA seguiu a instrução de fazer **uma pergunta por vez**.
 
@@ -64,84 +64,91 @@ As perguntas buscaram entender:
 4. tarefas com prazo, urgência ou consequência;  
 5. tempo realista disponível em dias úteis e fins de semana.  
 
-### 💬 Contexto usado no teste
+### 📋 Contexto usado no teste:
 
 ```text
-Eu estudo e trabalho. As tarefas que preciso organizar são: estudar para melhorar minha recolocação na área de tecnologia, revisar currículo ou LinkedIn, responder mensagens importantes, cuidar de algumas tarefas domésticas básicas e tentar manter algum exercício físico na semana.
+1. Tarefas: Estudar para melhorar minha recolocação na área de tecnologia.
+Revisar currículo ou LinkedIn, responder mensagens importantes, cuidar de algumas tarefas domésticas básicas, tentar manter algum exercício físico na semana
 
-Trabalho durante o dia de segunda a sexta, das 8h às 18h, e estudo à noite de segunda a quinta. Por causa do transporte público, costumo chegar em casa por volta das 23h30 nesses dias. Minha rotina é bem apertada e nem sempre consigo fazer tudo. Gasto em média 1h a 1h30 por trajeto de ônibus. No fim de semana cuido da casa e procuro estudar.
+2. Compromissos: Trabalho de segunda a sexta, das 8h às 18h. 
+Estudos à noite de segunda a quinta. 
+Transporte público: em média 1h a 1h30 por trajeto. 
+Chego em casa por volta das 23h30 nos dias de aula.
 
-As prioridades são manter os estudos, não deixar tarefas importantes acumularem e encontrar uma forma realista de incluir exercícios sem sobrecarregar a rotina.
+3. A rotina é bem apertada e nem sempre consigo fazer tudo.
+No fim de semana cuido da casa e procuro estudar.
 
-Não sei ao certo quanto tempo consigo dedicar, porque minha rotina é bem cansativa. Talvez tenha algum tempo aos sábados e domingos, quando não tenho compromissos extras ou estudos pendentes.
+4. Prioridades: Manter os estudos. Não deixar tarefas importantes acumularem. 
+Incluir exercícios de forma realista, sem sobrecarga
+
+5. Tempo disponível: Durante a semana é limitado e cansativo. 
+Talvez consiga algum tempo aos sábados e domingos, quando não há compromissos extras
 ```
 
 ---
 
-## 📋 Resultado gerado pela IA
+## ✍️ Resultado Final do Prompt:
 
 A IA criou um plano enxuto, dividido em três grupos:
 
+---
+
+## Plano de produtividade pessoal
+
 ### ✅ Fazer agora
 
-| Tarefa | Prioridade | Tempo | Energia | Primeira ação |
-| --- | --- | --- | --- | --- |
-| Definir a prioridade da semana | Alta | 10 min | Baixa | Escrever qual será o foco da semana. |
-| Responder mensagens realmente importantes | Alta | 15-20 min | Baixa | Abrir apenas as conversas prioritárias. |
+| Tarefa                                                            | Prioridade |     Tempo | Energia | Primeira ação                                                                      |
+| ----------------------------------------------------------------- | ---------- | --------: | ------- | ---------------------------------------------------------------------------------- |
+| ☐ Definir a prioridade da semana (estudo, currículo ou mensagens) | Alta       |    10 min | Baixa   | Escreva em um papel ou aplicativo qual será o foco da semana.                      |
+| ☐ Responder as mensagens realmente importantes                    | Alta       | 15–20 min | Baixa   | Abra apenas as conversas prioritárias e responda primeiro as que dependem de você. |
+
+**Pausa:** 5 minutos para levantar, beber água ou caminhar um pouco.
+
+---
 
 ### 📌 Fazer ainda hoje
 
-| Tarefa | Prioridade | Tempo | Energia | Primeira ação |
-| --- | --- | --- | --- | --- |
-| Fazer uma sessão curta de estudos | Alta | 25-40 min | Média | Escolher apenas um assunto para estudar. |
-| Fazer um exercício leve | Média | 15-20 min | Média | Fazer caminhada, alongamento ou treino curto em casa. |
+| Tarefa                              | Prioridade |     Tempo | Energia | Primeira ação                                                  |
+| ----------------------------------- | ---------- | --------: | ------- | -------------------------------------------------------------- |
+| ☐ Fazer uma sessão curta de estudos | Alta       | 25–40 min | Média   | Escolha apenas um assunto e estude sem tentar "adiantar tudo". |
+| ☐ Fazer um exercício leve           | Média      | 15–20 min | Média   | Faça uma caminhada, alongamento ou um treino curto em casa.    |
+
+**Pausa:** 5 a 10 minutos antes de iniciar outra atividade.
+
+---
 
 ### 📅 Deixar preparado para depois
 
-| Tarefa | Prioridade | Tempo | Energia | Primeira ação |
-| --- | --- | --- | --- | --- |
-| Revisar currículo e LinkedIn | Média | 30-60 min | Média | Anotar três melhorias e reservar um período do fim de semana. |
-| Organizar a semana seguinte | Média | 15 min | Baixa | Definir um horário no sábado ou domingo para decidir o foco. |
+| Tarefa                         | Prioridade |     Tempo | Energia | Primeira ação                                                                 |
+| ------------------------------ | ---------- | --------: | ------- | ----------------------------------------------------------------------------- |
+| ☐ Revisar currículo e LinkedIn | Média      | 30–60 min | Média   | Anote três melhorias que deseja fazer e reserve um período do fim de semana.  |
+| ☐ Organizar a semana seguinte  | Média      |    15 min | Baixa   | Defina um horário no sábado ou domingo para decidir o foco da próxima semana. |
+
+## Quando faltar tempo
+
+Em vez de tentar fazer tudo:
+
+* **Adie:** revisão de currículo/LinkedIn se os estudos precisarem de mais atenção naquela semana.
+* **Simplifique:** faça 20 a 30 minutos de estudo em vez de uma sessão longa.
+* **Elimine:** tarefas que não são urgentes nem importantes naquele momento.
+
+Lembre-se de que manter uma rotina pequena e constante costuma trazer mais resultado do que alternar entre excesso de atividades e períodos sem conseguir fazer nada.
+
+### Avaliação
+
+**Ponto forte:** você já identificou claramente suas prioridades e reconhece os limites da sua rotina, o que ajuda a criar um plano sustentável.
+
+**Risco de sobrecarga:** tentar aproveitar todos os momentos livres para produzir pode aumentar o cansaço e dificultar a constância, principalmente por causa do trabalho, estudos e deslocamentos.
+
+**Sugestão prática:** trate o fim de semana como seu principal período para tarefas que exigem concentração (como estudar e revisar currículo) e use os dias úteis apenas para pequenas ações de manutenção, como responder mensagens, revisar um conteúdo por alguns minutos ou fazer um exercício curto. Dessa forma, a rotina tende a ser mais sustentável e aumenta a chance de você manter o ritmo ao longo das semanas.
 
 ---
 
-## 📊 Avaliação do resultado gerado
 
-O resultado foi positivo porque a IA reconheceu que a rotina tem pouco tempo livre, muito deslocamento e energia limitada. Em vez de sugerir um plano idealizado, ela priorizou ações curtas e sustentáveis.
 
-### ✅ Ponto forte
+## 🚀 Conclusão:
 
-O plano considerou limites reais de tempo e energia, além de priorizar estudos, mensagens importantes e organização da semana.
-
-### ⚠️ Risco de sobrecarga
-
-Tentar aproveitar todos os momentos livres para produzir pode aumentar o cansaço e dificultar a constância, principalmente por causa do trabalho, estudos e deslocamentos.
-
-### 💡 Sugestão prática
-
-Tratar o fim de semana como o principal período para tarefas que exigem concentração, como estudar e revisar currículo, usando os dias úteis apenas para pequenas ações de manutenção.
-
----
-
-## 🔎 Por que o prompt atende ao desafio?
-
-- Possui **intenção clara**.  
-- Define **público-alvo**.  
-- Apresenta **contexto e restrições**.  
-- Indica **formato de resposta**.  
-- Solicita **uma pergunta por vez** antes da resposta final.  
-- Limita o checklist a **5 a 7 itens**.  
-- Inclui pausas curtas e realistas.  
-- Ajuda a escolher o que fazer, adiar, simplificar ou eliminar.  
-- Evita linguagem técnica, excesso de informações e metas irreais.  
-
----
-
-## 💡 Reflexão final
-
-Este prompt é útil porque não trata produtividade como uma lista infinita de obrigações. Ele orienta a IA a entender o momento da pessoa, considerar tempo e energia disponíveis, e transformar a rotina em pequenas ações possíveis.
-
-Assim, a IA deixa de ser apenas uma ferramenta de resposta e passa a funcionar como uma parceira de organização, ajudando a pessoa a começar com mais clareza, foco e leveza.
+Este prompt é útil porque não trata produtividade como uma lista infinita de obrigações. Ele orienta a IA a entender o momento da pessoa, considerar tempo e energia disponíveis, e transformar a rotina em pequenas ações possíveis. Assim, a IA deixa de ser apenas uma ferramenta de resposta e passa a funcionar como uma parceira de organização, ajudando a pessoa a começar com mais clareza, foco e leveza.
 
 ---
 
