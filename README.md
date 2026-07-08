@@ -14,6 +14,8 @@ O conteúdo deve ter formato de checklist com 5 a 7 itens, indicando prioridade,
 A IA deve fazer apenas uma pergunta por vez e aguardar a resposta antes de continuar.  
 Evite linguagem técnica, listas longas, metas irreais e tom de cobrança.
 
+---
+
 >## 🤖 Passo 3:
 Entrega final que reune intenção, contexto, formato e restrições.
 > **[!Prompt final]**
@@ -34,10 +36,7 @@ Use linguagem simples, clara, acolhedora e motivadora.
 Evite termos técnicos, excesso de informações, listas muito longas, metas irreais, tom de cobrança e recomendações difíceis de aplicar.
 ```
 
----
-
 ## 🔧 Testando o prompt:
-
 Ao testar o prompt, a IA seguiu a instrução de fazer uma pergunta por vez.
 As perguntas buscaram entender:
 1. tarefas e compromissos dos próximos dias;  
@@ -47,7 +46,6 @@ As perguntas buscaram entender:
 5. tempo realista disponível em dias úteis e fins de semana.  
 
 ### 📋 Contexto usado no teste:
-
 1. Tarefas: Estudar para melhorar minha recolocação na área de tecnologia.
 Revisar currículo ou LinkedIn, responder mensagens importantes, cuidar de algumas tarefas domésticas básicas, tentar manter algum exercício físico na semana
 2. Compromissos: Trabalho de segunda a sexta, das 8h às 18h. 
@@ -77,8 +75,6 @@ A IA criou um plano enxuto, dividido em três grupos:
 
 **Pausa:** 5 minutos para levantar, beber água ou caminhar um pouco.
 
----
-
 ### 📌 Fazer ainda hoje
 
 | Tarefa                              | Prioridade |     Tempo | Energia | Primeira ação                                                  |
@@ -87,8 +83,6 @@ A IA criou um plano enxuto, dividido em três grupos:
 | ☐ Fazer um exercício leve           | Média      | 15–20 min | Média   | Faça uma caminhada, alongamento ou um treino curto em casa.    |
 
 **Pausa:** 5 a 10 minutos antes de iniciar outra atividade.
-
----
 
 ### 📅 Deixar preparado para depois
 
