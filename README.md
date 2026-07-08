@@ -14,8 +14,7 @@ O conteúdo deve ter formato de checklist com 5 a 7 itens, indicando prioridade,
 A IA deve fazer apenas uma pergunta por vez e aguardar a resposta antes de continuar.  
 Evite linguagem técnica, listas longas, metas irreais e tom de cobrança.
 
--
-
+_
 
 >## 🤖 Passo 3:
 Entrega final que reune intenção, contexto, formato e restrições.
