@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Objetivo
+## 📌 Objetivo:
 Criar um prompt claro e aplicável para orientar uma IA a ajudar pessoas com rotina intensa a organizar prioridades, reduzir sobrecarga e transformar tarefas acumuladas em ações simples e realistas.
 
 ---
@@ -86,10 +86,7 @@ Talvez consiga algum tempo aos sábados e domingos, quando não há compromissos
 ---
 
 ## ✍️ Resultado Final do Prompt:
-
 A IA criou um plano enxuto, dividido em três grupos:
-
----
 
 ## Plano de produtividade pessoal
 
@@ -141,10 +138,10 @@ Lembre-se de que manter uma rotina pequena e constante costuma trazer mais resul
 **Sugestão prática:** trate o fim de semana como seu principal período para tarefas que exigem concentração (como estudar e revisar currículo) e use os dias úteis apenas para pequenas ações de manutenção, como responder mensagens, revisar um conteúdo por alguns minutos ou fazer um exercício curto. Dessa forma, a rotina tende a ser mais sustentável e aumenta a chance de você manter o ritmo ao longo das semanas.
 
 ---
-
+---
 
 
 > ## 🚀 Conclusão:
->Este prompt não trata produtividade como uma lista infinita de obrigações, ele orienta a >IA a entender o momento da pessoa, considerar tempo e energia disponíveis, e transformar >a rotina em pequenas ações possíveis. Assim, a IA deixa de ser apenas uma ferramenta de >resposta e passa a funcionar como uma parceira de organização, ajudando a pessoa a >começar com mais clareza, foco e leveza.
+>Este prompt não trata produtividade como uma lista infinita de obrigações, ele orienta a IA a entender o momento da pessoa, considerar tempo e energia disponíveis, e transformar a rotina em pequenas ações possíveis. Assim, a IA deixa de ser apenas uma ferramenta de resposta e passa a funcionar como uma parceira de organização, ajudando a pessoa a >começar com mais clareza, foco e leveza.
 
 
