@@ -37,27 +37,12 @@ Evite termos técnicos, excesso de informações, listas muito longas, metas irr
 ```
 
 ## 🔧 Testando o prompt:
-Ao testar o prompt, a IA seguiu a instrução de fazer uma pergunta por vez.
-As perguntas buscaram entender:
-1. tarefas e compromissos dos próximos dias;  
-2. compromissos fixos da semana, trabalho, estudos e deslocamentos;  
-3. nível de energia ao longo da semana;  
-4. tarefas com prazo, urgência ou consequência;  
-5. tempo realista disponível em dias úteis e fins de semana.  
-
-### 📋 Contexto usado no teste:
-1. Tarefas: Estudar para melhorar minha recolocação na área de tecnologia.
-Revisar currículo ou LinkedIn, responder mensagens importantes, cuidar de algumas tarefas domésticas básicas, tentar manter algum exercício físico na semana
-2. Compromissos: Trabalho de segunda a sexta, das 8h às 18h. 
-Estudos à noite de segunda a quinta. 
-Transporte público: em média 1h a 1h30 por trajeto. 
-Chego em casa por volta das 23h30 nos dias de aula.
-3. A rotina é bem apertada e nem sempre consigo fazer tudo.
-No fim de semana cuido da casa e procuro estudar.
-4. Prioridades: Manter os estudos. Não deixar tarefas importantes acumularem. 
-Incluir exercícios de forma realista, sem sobrecarga
-5. Tempo disponível: Durante a semana é limitado e cansativo. 
-Talvez consiga algum tempo aos sábados e domingos, quando não há compromissos extras
+Ao testar o prompt, a IA fez uma pergunta por vez para entender tarefas, compromissos, energia, urgências e tempo disponível. O contexto considerado foi:
+* Tarefas: estudar para recolocação em tecnologia, revisar currículo/LinkedIn, responder mensagens importantes, cuidar da casa e incluir exercícios.
+* Compromissos: trabalho de segunda a sexta (8h–18h), estudos à noite de segunda a quinta, transporte público de 1h a 1h30 por trajeto, chegada em casa por volta das 23h30.
+* Rotina: apertada, nem sempre dá para fazer tudo; fim de semana dedicado à casa e estudos.
+* Prioridades: manter estudos, não acumular tarefas importantes, incluir exercícios sem sobrecarga.
+* Tempo disponível: limitado e cansativo durante a semana, com algum espaço livre aos sábados e domingos.
 
 ---
 
