@@ -44,9 +44,8 @@ Ao testar o prompt, a IA fez uma pergunta por vez para entender tarefas, comprom
 * Prioridades: manter estudos, não acumular tarefas importantes, incluir exercícios sem sobrecarga.
 * Tempo disponível: limitado e cansativo durante a semana, com algum espaço livre aos sábados e domingos.
 
----
 
-## ✍️ Resultado Final do Prompt:
+>## ✍️ Resultado Final do Prompt:
 A IA criou um plano enxuto, dividido em três grupos:
 
 ## Plano de produtividade pessoal
