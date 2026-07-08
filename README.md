@@ -14,7 +14,8 @@ O conteúdo deve ter formato de checklist com 5 a 7 itens, indicando prioridade,
 A IA deve fazer apenas uma pergunta por vez e aguardar a resposta antes de continuar.  
 Evite linguagem técnica, listas longas, metas irreais e tom de cobrança.
 
----
+-
+
 
 >## 🤖 Passo 3:
 Entrega final que reune intenção, contexto, formato e restrições.
@@ -35,6 +36,7 @@ Ao final, apresente uma breve avaliação com um ponto forte da organização, u
 Use linguagem simples, clara, acolhedora e motivadora.
 Evite termos técnicos, excesso de informações, listas muito longas, metas irreais, tom de cobrança e recomendações difíceis de aplicar.
 ```
+-
 
 ## 🔧 Testando o prompt:
 Ao testar o prompt, a IA fez uma pergunta por vez para entender tarefas, compromissos, energia, urgências e tempo disponível. O contexto considerado foi:
@@ -44,9 +46,10 @@ Ao testar o prompt, a IA fez uma pergunta por vez para entender tarefas, comprom
 * Prioridades: manter estudos, não acumular tarefas importantes, incluir exercícios sem sobrecarga.
 * Tempo disponível: limitado e cansativo durante a semana, com algum espaço livre aos sábados e domingos.
 
+-
 
 >## ✍️ Resultado Final do Prompt:
-A IA criou um plano enxuto, dividido em três grupos:
+>**A IA criou um plano enxuto, dividido em três grupos:**
 
 ## Plano de produtividade pessoal
 
