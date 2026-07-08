@@ -4,27 +4,20 @@
 
 **✨Produtividade pessoal, foco e organização com apoio de IA.**
 
----
-
 ## 📌 Objetivo:
 Criar um prompt claro e aplicável para orientar uma IA a ajudar pessoas com rotina intensa a organizar prioridades, reduzir sobrecarga e transformar tarefas acumuladas em ações simples e realistas.
-
----
 
 ## 💡 Passo 1: Intenção:
 
 **Quero que gere um plano de produtividade pessoal para pessoas que trabalham, estudam e têm pouco tempo disponível.**
 
----
-
 ## 🧩 Passo 2: Contexto e restrições:
-```text
+
 Considere o seguinte contexto: a pessoa pode ter trabalho, estudos, tarefas domésticas, deslocamento, cansaço e compromissos fixos. Muitas vezes, ela não conseguirá fazer tudo no mesmo dia.  
 O conteúdo deve ter formato de checklist com 5 a 7 itens, indicando prioridade, tempo estimado, energia necessária e primeira ação simples.  
 A IA deve fazer apenas uma pergunta por vez e aguardar a resposta antes de continuar.  
 Evite linguagem técnica, listas longas, metas irreais e tom de cobrança.
-```
----
+
 
 ## 🤖 Passo 3:
 
